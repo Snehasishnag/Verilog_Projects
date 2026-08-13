@@ -1,4 +1,3 @@
-
 # Verilog Projects
 
 A collection of digital logic and FPGA design projects developed using **Verilog HDL**.
@@ -12,6 +11,7 @@ This repository serves as a master collection of my Verilog projects, covering b
 | Project | Description | Status |
 |---------|-------------|--------|
 | [4-bit RCA](./4bit_rca) | 4-bit Ripple Carry Adder using Full Adders | ✅ Completed |
+| [4-Bit BCD Adder](./4_Bit_bcd_adder) | 4-bit BCD Adder using Ripple Carry Adders and BCD correction logic | ✅ Completed |
 
 ---
 
